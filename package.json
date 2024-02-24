@@ -1,0 +1,23 @@
+{
+  "name": "api-send",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superagent-charset": "^1.1.1",
+    "superagent":"2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raodaqi/api-send.git"
+  },
+  "author": "面向不对象",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raodaqi/api-send/issues"
+  },
+  "homepage": "https://github.com/raodaqi/api-send#readme"
+}
